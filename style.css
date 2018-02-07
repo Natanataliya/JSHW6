@@ -1,0 +1,63 @@
+.wrap {
+	width: 80%;
+	margin: 2px auto;
+}
+
+#box {
+	height: 100px;
+	width: 100px;
+	border: 1px solid black;
+}
+
+#folder {
+	height: 130px;
+	width: 130px;
+	background-image: url(close.png);
+}
+
+.Blocksball {
+	height: 30px;
+	width: 30px;
+	background: green;
+	margin: 3px;
+	float: left;
+}
+
+#mainImg {
+	height: 100px;
+	width: 100%;
+	background-size: contain;
+}
+
+.clearfix {
+	clear: both;	
+}
+
+#blockMove {
+	height: 100px;
+	width: 100px;
+	background: blue;
+	border: 1px solid black;
+}
+
+#stripe {
+	background-color: pink;
+	border-radius: 5px;
+	width: 300px;
+	height: 100px;
+	border: 2px solid gold;
+	position: relative;
+}
+
+#trig {
+	background-color: gold;
+	border-radius: 5px;
+	width: 100px;
+	height: 100px;
+	border: 2px solid gold;
+	position: absolute;
+	left: 0;
+}
+
+
+
